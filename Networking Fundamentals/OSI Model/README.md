@@ -1,4 +1,4 @@
-```markdown
+
 # OSI Model
 
 ## Overview
@@ -62,4 +62,4 @@ When you open **www.google.com**:
 - Cisco CCNA Official Certification Guide
 - IEEE Networking Standards
 - RFC Standards
-```
+
