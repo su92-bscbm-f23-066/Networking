@@ -36,6 +36,8 @@ The **OSI (Open Systems Interconnection) Model** is a conceptual framework used 
 - **D** = Data Link
 - **P** = Physical
 
+![OSI Model](OSI MODEL.jpg)
+
 ## Real-World Example
 
 When you open **www.google.com**:
