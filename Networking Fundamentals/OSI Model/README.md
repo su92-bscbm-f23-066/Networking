@@ -17,22 +17,15 @@ The OSI Model is a way to understand how information moves from one device to an
 ## The Seven Layers
 
 | Layer | Name | Examples |
-
 |:-----:|------|----------|
-
 | 7 | Application | HTTP, HTTPS, DNS, FTP |
-
 | 6 | Presentation | SSL, TLS, Encryption, Compression |
-
-| 5 Session | Session establishment and management |
-
+| 5 | Session | Session establishment and management |
 | 4 | Transport | TCP, UDP |
-
-| 3 | Network IP, Routers |
-
+| 3 | Network | IP, Routers |
 | 2 | Data Link | MAC Address, Switches |
-
 | 1 | Physical | Cables, Fiber Optics, Electrical Signals |
+
 
 ## Mnemonic
 
